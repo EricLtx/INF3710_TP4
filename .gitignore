@@ -23,4 +23,5 @@ $RECYCLE.BIN/
 # =========================
 
 #Node Modules
-INF3710_TP4-master\client\node_modules\
+INF3710_TP4-master/client/node_modules/
+INF3710_TP4-master/server/node_modules/
